@@ -10,3 +10,6 @@ Let's consider a scenario where we want to analyze the sentiment of iPhone revie
 
 ## Conclusion
 Web scraping for images opens up a myriad of possibilities, from image classification to sentiment analysis. In this journey, we've explored the basics of image web scraping in a Jupyter Notebook and extended it to an end-to-end implementation using Flask. As data enthusiasts, we now have the tools to collect and analyze image data for diverse applications in the world of data science and machine learning.
+
+## Blog: 
+https://medium.com/@kahalekar.sunil/data-science-project-web-scraping-for-images-5305bbf38139
